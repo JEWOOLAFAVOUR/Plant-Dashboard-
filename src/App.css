@@ -33,3 +33,30 @@
 html {
     font-size: 90%;
 }
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.icon {
+    font-size: var(--h2FontSize);
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.grid {
+    display: grid;
+    align-items: center;
+}
