@@ -6,7 +6,7 @@ import Activity from '../ActivitySection/Activity'
 
 const Body = () => {
     return (
-        <div className='mainContext'>
+        <div className='mainContent'>
             <Top />
 
             <div className="bottom flex">
