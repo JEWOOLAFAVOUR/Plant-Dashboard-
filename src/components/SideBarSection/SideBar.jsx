@@ -17,7 +17,7 @@ import { BsCreditCard2Front } from 'react-icons/bs';
 
 const SideBar = () => {
     return (
-        <div className='sideBar grid  '>
+        <div className='sideBar grid'>
             <div className="logDiv flex">
                 <img src={flower1} alt="Image Name" />
                 <h2>Planti.</h2>
