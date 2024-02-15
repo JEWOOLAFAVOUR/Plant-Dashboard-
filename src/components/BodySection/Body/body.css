@@ -1,1 +1,6 @@
-/*# sourceMappingURL=body.css.map */
+.mainContent {
+  width: 82%;
+  height: 100%;
+  padding: 2rem;
+  overflow: auto;
+}/*# sourceMappingURL=body.css.map */
